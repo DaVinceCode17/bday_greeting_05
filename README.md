@@ -1,17 +1,14 @@
+<!DOCTYPE html>
 <html>
-
-    <style>
-        body{
-            background-color: violet;
-        }
-    </style>
-
-
+  <head>
     <title>Birthday greeting</title>
-
-    <body>
-        <p>Happy birthday pangit</p>
-    </body>
-
-
-</html>
+    <style>
+      body {
+        background-color: violet;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Happy birthday pangit</p>
+  </body>
+</html>   
