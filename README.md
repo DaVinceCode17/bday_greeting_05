@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Birthday greeting</title>
+    <title></title>
     <style>
       body {
         background-color: violet;
