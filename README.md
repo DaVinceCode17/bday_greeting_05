@@ -217,7 +217,7 @@
 
     <script>
         // You can change the name here
-        const birthdayPerson = "Your Name";
+        const birthdayPerson = "Jasmin";
         document.getElementById('nameDisplay').innerHTML = birthdayPerson;
         
         // Balloon pop effect
