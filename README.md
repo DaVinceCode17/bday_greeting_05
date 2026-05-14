@@ -2,7 +2,7 @@
 
     <style>
         body{
-            background: violet;
+            background-color: violet;
         }
     </style>
 
