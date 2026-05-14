@@ -1,4 +1,12 @@
 <html>
+
+    <style>
+        body{
+            background: violet;
+        }
+    </style>
+
+
     <title>Birthday greeting</title>
 
     <body>
